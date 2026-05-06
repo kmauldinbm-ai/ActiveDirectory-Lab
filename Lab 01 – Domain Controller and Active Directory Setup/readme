@@ -1,2 +1,0 @@
-Lab 01: Domain Controller and Active Directory Setup  
-This lab documents the complete process of building the foundation of an Active Directory environment. It covers preparing a Windows Server VM, configuring a static IP, installing the AD DS role, and promoting the server to a domain controller with integrated DNS. The goal is to establish a clean, functional domain that future labs will build on, including user creation, OU structure, Group Policy, and identity management. This serves as the starting point for the entire AD lab series.
