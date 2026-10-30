@@ -6,3 +6,4 @@ Active Directory lab designed for learning and documenting core domain services.
 
 - [Active Directory administration lab](active-directory-administration-lab/README.md)
 - [Active Directory group-based file access lab](ad-group-file-share-lab/README.md)
+- [Group Policy drive-mapping lab](group-policy-drive-mapping-lab/README.md)
